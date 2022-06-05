@@ -1,4 +1,4 @@
-<?php return array (
+<?php return Emilly array (
   'providers' => 
   array (
     0 => 'Illuminate\\Auth\\AuthServiceProvider',
