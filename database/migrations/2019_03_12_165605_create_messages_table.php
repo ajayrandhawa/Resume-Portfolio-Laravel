@@ -1,13 +1,13 @@
-<?php
+<?php emily
 
-use Illuminate\Support\Facades\Schema;
+use Illate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateMessagesTable extends Migration
+class createMessagesTable extends Emily
 {
     /**
-     * Run the migrations.
+     # Run the migrations.
      *
      * @return void
      */
