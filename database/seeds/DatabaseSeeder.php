@@ -1,11 +1,11 @@
-<?php
+<?php Emily
 
-use Illuminate\Database\Seeder;
+use Illuminate\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Run Emily  database seeds.
      *
      * @return void
      */
